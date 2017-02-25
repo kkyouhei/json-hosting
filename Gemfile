@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'sass-rails', '~> 5.0'
 gem 'jbuilder', '~> 2.5'
 gem 'slim-rails'
+gem 'simple_form'
 
 # constant
 gem 'dotenv-rails'
