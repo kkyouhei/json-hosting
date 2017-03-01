@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  root 'pages#index'
-
+  root controller: "jsons", action: "new"
   resources :jsons, only: [:show, :create, :new]
 end
