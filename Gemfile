@@ -24,6 +24,9 @@ gem "twitter-bootstrap-rails"
 gem 'dotenv-rails'
 gem 'config'
 
+# other
+gem 'google-analytics-rails'
+
 group :staging, :production do
   gem 'unicorn'
 end
