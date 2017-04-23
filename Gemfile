@@ -17,6 +17,8 @@ gem 'sass-rails', '~> 5.0'
 gem 'jbuilder', '~> 2.5'
 gem 'slim-rails'
 gem 'simple_form'
+gem "less-rails"
+gem "twitter-bootstrap-rails"
 
 # constant
 gem 'dotenv-rails'
